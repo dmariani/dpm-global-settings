@@ -1,6 +1,5 @@
 object_type: global_settings
 overrides:
-    "aggregates.configuration.maximum_concurrent_materializations": 20
     "connection.pool.group.maxConnections": "1000"
     "connection.pool.user.maxConnections": "1000"
     "query.includeComments.general.queryId": "true"
