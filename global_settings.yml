@@ -2,3 +2,4 @@ object_type: global_settings
 overrides:
     "xmla.auth.token.enabled": "true"
     "xmla.discover.properties.daxdialect": "tabular"
+    "aggregates.configuration.maximum_concurrent_materializations": 10
